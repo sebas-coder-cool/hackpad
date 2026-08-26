@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/79f3460a-eb31-4a59-aa39-88dc76c06bdf
 
 ## design
 - https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fsebas-coder-cool%2Fhackpad%2Ftree%2Fmain%2Fpcb
-- https://sharecad.org/viewer#1b7ed868-0baf-480c-9052-3e47a7118b6c368-ext
+
 
 
 
