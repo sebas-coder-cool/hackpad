@@ -2,22 +2,10 @@
 
 This is a hackpad I built myself. A hackpad is basically a small keypad where every key does whatever you want — shortcuts, macros, or anything else you can think of.
 I followed the instructions en this is him.
-## What's in this repo
-
-- `firmware/` — the code that runs on the hackpad
-- `pcb/` — the PCB design files
-- `cad/` — the 3D files for the case
-- `assets/` — images and other files
-- `production/` — the files I used to get it manufactured
 
 ## BOM
-[Upload"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
-"D1,D2,D3,D4,D5,D6,D7,D8,D9","9","1N4148","","","","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-"D10,D11,D12,D13,D14,D15,D16,D17,D18","9","SK6812MINI-E","","","","LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount","https://www.lcsc.com/datasheet/C5149201.pdf"
-"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9","9","SW_Push","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
-"U1","1","MOUDLE-SEEEDUINO-XIAO","","","","footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM",""
-"U2","1","ER_OLEDM0.91_1x-I2C","","","","Display:ER_OLEDM0.91_1x-I2C","https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf"
-ing hoiddf (1).csv…]()
+<img width="2432" height="384" alt="Screenshot 2026-08-26 164025" src="https://github.com/user-attachments/assets/a6315c80-e0e1-4810-84ab-a27b9f20b0b5" />
+
 
 ## pictures/video's
 https://github.com/user-attachments/assets/79f3460a-eb31-4a59-aa39-88dc76c06bdf
