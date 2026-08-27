@@ -12,8 +12,13 @@ https://github.com/user-attachments/assets/79f3460a-eb31-4a59-aa39-88dc76c06bdf
 
 <img width="1460" height="842" alt="Screenshot 2026-07-08 161612" src="https://github.com/user-attachments/assets/509623e0-be6e-4219-9b3f-6e50ccacb3bd" />de
 
+
+<img width="1550" height="1064" alt="Screenshot 2026-08-27 093227" src="https://github.com/user-attachments/assets/a0e1b398-91ca-43fd-8378-d3bfbdc6011d" />
+
+
 ## design
 - https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fsebas-coder-cool%2Fhackpad%2Ftree%2Fmain%2Fpcb
+- https://autode.sk/4gn1hyK
 
 
 
